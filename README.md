@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Graziele+Magalhães;+Information+Technology+student+at+Ufersa!;+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=grazimglhs&theme=shadow_red &mode=weekly" />
-<img loading="shadow_red " height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazimglhs&layout=compact&langs_count=7&theme=shadow_red "/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alicias4milly&theme=shadow_red&mode=weekly" />
+<img loading="shadow_red" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazimglhs&layout=compact&langs_count=7&theme=shadow_red"/>
  </div>
  
  &nbsp;
